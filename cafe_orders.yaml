@@ -1,10 +1,9 @@
-Orders
-
+Orders:
 - Price: 1.2
-- Size: small
-- Type: Choc
-- Dairy_free: true
-- extras
+  Size: small
+  Type: Choc
+  airy_free: true
+- extras:
   - extra1: syrup
   - extra2: choc_dust
 - Cust_name: Drac
@@ -13,7 +12,7 @@ Orders
   - Food2: spud
 
 - Price: 2.3
-- Size: Medium
+  size: Medium
 - Type: Cappucino
 - Dairy_free: false
 - extras
